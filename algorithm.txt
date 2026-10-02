@@ -1,0 +1,10 @@
+1. Start
+2. Declare float variables heart_rate, low_limit, and high_limit.
+3. Set low_limit = 60 BPM and high_limit = 100 BPM.
+4. Read the heart rate value in BPM.
+5. Check if heart_rate <= low_limit.
+6. If Yes, display "Low Heart Rate".
+7. Otherwise, check if heart_rate <= high_limit and heart_rate > low_limit.
+8. If Yes, display "Normal Heart Rate".
+9. Otherwise, display "High Heart Rate".
+10. Stop.
